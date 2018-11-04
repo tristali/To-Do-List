@@ -13,8 +13,8 @@ export function reducer(state, action){
         return {display:action.display};
 
     case "DEL_LIST":
-        return {list: action.list};    
-    
+        return {list: action.list};
+        
     case "ListState":
         return {list: action.list};
 
