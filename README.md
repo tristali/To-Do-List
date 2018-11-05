@@ -1,6 +1,6 @@
 # To do list
 
-A small web application build with react.js
-https://tristali.github.io/To-Do-List-Practice/dist/index.html
+A small web application practice build with react.js.
+[Try it](https://tristali.github.io/To-Do-List/dist/index.html)
 
-![image-20180829140656376](https://github.com/tristali/To-Do-List-Practice/blob/master/to_do_list.jpg)
+![image-20180829140656376](https://github.com/tristali/To-Do-List/blob/master/to_do_list.jpg)
